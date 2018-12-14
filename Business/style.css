@@ -91,3 +91,8 @@ a:hover{
 .fa-linkedin-in:hover {
     color: #007BB5;
 }
+
+.indent {
+    text-indent: 3em;
+}
+
