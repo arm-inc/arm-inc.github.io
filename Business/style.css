@@ -96,3 +96,22 @@ a:hover{
     text-indent: 3em;
 }
 
+.heading {
+    padding-top: 2em;
+    border-bottom: solid;
+}
+
+.subheading {
+    border-bottom: solid;
+}
+
+.card-team{
+    margin-top: 3em;
+    border: none !important;
+}
+
+img.card-img-team {
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+}
