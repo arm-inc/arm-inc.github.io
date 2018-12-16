@@ -1,0 +1,37 @@
+* {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*
+NAVBAR RELATED STUFF
+*/
+
+.navbar {
+    background-color: #242424;
+}
+
+.company-icon {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+}
+
+.nav-item a{
+    color: #FFFFFF;
+}
+
+.nav-item a:hover{
+    color: #E8D1DF;
+}
+
+.navbar-toggler {
+    color: #FFFFFF;
+    /*margin-left: auto;
+    margin-right: auto;*/
+}
+
+.navbar-toggler:hover {
+    color: #E8D1DF;
+}
